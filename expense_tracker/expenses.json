@@ -1,0 +1,23 @@
+[
+  {
+    "amount": 99.99,
+    "category": "Groceries",
+    "description": "UPDATED",
+    "payment_method": "cash",
+    "date": "2025-01-10"
+  },
+  {
+    "amount": 12.5,
+    "category": "Transportaion",
+    "description": "Uber to work",
+    "payment_method": "credit",
+    "date": "2025-01-11"
+  },
+  {
+    "amount": 50.0,
+    "category": "Subscriptions",
+    "description": "Claude",
+    "payment_method": "credit",
+    "date": "2025-01-12"
+  }
+]

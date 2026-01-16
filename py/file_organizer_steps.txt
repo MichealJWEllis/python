@@ -1,0 +1,11 @@
+1. Go to the Downloads Folder
+  a. if download folder empty do nothing exit
+2. For each file
+  a. Determine file type and date
+  b. if no file type then skip file
+  c. create folders for file types
+    - move into type files and create date files
+  d. paste files inside of type folders / and date folders
+    - if file exists then prompt user to rename file
+3. signal to user that file migration was completed
+
